@@ -1,0 +1,1 @@
+This is a story that tells a tale about changes to git. Mainly adding and committing changes for others to read while working on projects. If one wants to make a change first add to a "cart" and then git commit to confirm changes to the project. Don't forget to make a comment that makes sense to others!
